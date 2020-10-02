@@ -5,6 +5,7 @@
  * LICENSE file in the root directory of this source tree.
  */
 
+// For Tech Portfolio Guide from GHC Workshop
 // See https://docusaurus.io/docs/site-config for all the possible
 // site configuration options.
 
@@ -12,10 +13,10 @@
 const users = [];
 
 const siteConfig = {
-    title: 'Your Name Here', // Title for your website.
-    tagline: 'Continuously improving, aspiring technologist.',
+    title: 'Glizelle Mapa', // Title for your website.
+    tagline: 'Simply put, we are not in this alone.',
     profilePhoto: 'img/profile.png',
-    url: 'https://joatmon08.github.io', // Your website URL
+    url: 'https://gmarie07.github.io', // Your website URL or github handle 
     baseUrl: '/tech-portfolio/', // Base URL for your project */
     // For github.io type URLs, you would set the url and baseUrl like:
     //   url: 'https://facebook.github.io',
@@ -23,7 +24,7 @@ const siteConfig = {
 
     // Used for publishing and more
     projectName: 'tech-portfolio',
-    organizationName: 'joatmon08',
+    organizationName: 'gmarie07', // same as github handle
     // For top-level user or org sites, the organization is still the same.
     // e.g., for the https://JoelMarcey.github.io site, it would be set like...
     //   organizationName: 'JoelMarcey'
@@ -66,10 +67,10 @@ const siteConfig = {
     // Show documentation's last update time.
     enableUpdateTime: true,
 
-    socialMedia: {
-        linkedin: '',
-        twitter: '',
-        github: '',
+    socialMedia: {      // can add later when comfortable
+        linkedin: '',   // just needed content after /in like 'gmarie07'
+        twitter: '',    // likewise for others here too
+        github: 'gmarie07',
     },
 
     // You may provide arbitrary config keys to be used as needed by your
